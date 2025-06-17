@@ -3,8 +3,6 @@
 
 🎮 A fun and challenging Python penalty shootout game built with Pygame!
 
-![Game Screenshot](screenshot.png) *(Add a screenshot later)*
-
 ## ✨ Features
 
 - 🏆 Single-player penalty shootout experience
